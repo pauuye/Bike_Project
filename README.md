@@ -95,7 +95,7 @@ Running totals
 Full details inside: **/PowerBI/README.md**
 
 
-**What I Learned**
+**4. What I Learned**
 
 How to clean data using MySQL
 
@@ -108,7 +108,7 @@ How different tools can create different types of insights
 How to structure a portfolio project professionally
 
 
-**Tools Used**
+**5. Tools Used**
 
 MySQL
 
@@ -125,7 +125,7 @@ DAX (basic)
 Simple data modeling
 
 
-**Why This Project Matters**
+**6. Why This Project Matters**
 
 This project shows beginners and recruiters that I can:
 
