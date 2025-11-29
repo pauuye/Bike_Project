@@ -34,8 +34,8 @@ Bike-_Project/
 │        ├── Dashboard.png
 │        └── Summary.png
 └── data/
-│     ├──Sales.csv
-│     └── ales_v2.xlsx
+│     ├── Sales.csv
+│     └── Sales_v2.xlsx
 ```
 
 **1. MySQL – Data Cleaning + Analysis**
