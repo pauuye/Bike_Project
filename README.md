@@ -13,7 +13,7 @@ This is a beginner-friendly project, with simple steps, clear logic, and easy-to
 **Project Structure**
 ```
 Bike-_Project/
-
+├── README.md
 ├── MySQL/
 │     ├── README.md
 │     ├── BikeSales_SQL.sql
@@ -33,7 +33,7 @@ Bike-_Project/
 │     └── Screenshots
 │        ├── Dashboard.png
 │        └── Summary.png
-├── data/
+└── data/
 │     ├──Sales.csv
 │     └── ales_v2.xlsx
 ```
