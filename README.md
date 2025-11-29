@@ -25,7 +25,7 @@ Bike-_Project/
 │     ├── README.md
 │     ├── Bike_Project1.xlsx
 │     └── Screenshots
-│        ├──  Customer.png
+│        ├── Customer.png
 │        └── Summary.png
 ├── PowerBI
 │     ├── README.md
