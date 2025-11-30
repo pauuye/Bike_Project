@@ -80,10 +80,6 @@ Top 10 profitable sub-categories per year
 
 
 
-Trends
-
-
-
 Profitability per year (2011–2016)
 
 
@@ -123,6 +119,7 @@ Data cleaning logic
 
 
 **BikeSales\_SQL.sql – complete SQL script**
+
 
 
 
